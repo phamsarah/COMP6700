@@ -1,5 +1,5 @@
 # COMP6700
-#Software Process at Auburn University
+**Software Process at Auburn University**
 
 
 Assignment 1: Finding prime numbers within a range
